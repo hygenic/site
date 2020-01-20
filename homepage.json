@@ -1,4 +1,14 @@
 {
+	"400": [
+		" Medical Offices",
+		"Medical Office Experts?"
+	],
+	"401": " We understand what you need..",
+	"402": "Medical Offices:",
+	"403": " Not just any janitorial service can take on medical office cleaning jobs. Unlike janitorial cleaning for other kinds of offices and buildings, healthcare facility cleaning and medical office cleaning require specialized training and equipment in order to be done right. ",
+	"404": "\nHygenic Solutions meets or exceeds medical office cleaning standards set by OSHA, CDC, and AORN. Medical offices contain illness-causing germs that can spread through a medical office for days. A janitorial service that provides a hygienic focused approach can assist in reducing the spread of infectious disease and illness causing germs.  ",
+	"405": "\t   \n\t   The Hygic-Clean system, offered by Hygenic Solutions, consists of specialized training, hospital grade disinfectants, state of the art equipment including micro-fiber technology; HEPA vacuums with four levels of filtration and a focus on touch surface disinfection. ",
+	"406": "\nOur experience includes servicing all types of medical offices. The medical office cleaning provided by Hygenic Solutions is superior and competitively priced. If you desire to receive a janitorial service built for the medical environment, we are your service provider of trust!  ",
 	"410": "Fitness Centers",
 	"411": "Fitness Center Experts?",
 	"412": "We understand what you need..",
@@ -187,5 +197,6 @@
 	"header_line": "\"Where Image & Hygiene Matter\"",
 	"473b": "\n\t\t  We take pride in what we do and floor care is no exception. Whether its carpet, concrete, natural stone, vinyl composition tile, laminate or wood floors we have the solution. From stripping and waxing, floor burnishing, natural stone honing, concrete grinding/staining, diamond embedded polishing and low-moisture high steam heat we have you covered. ",
 	"editable069d": "Cleaner, healthier with Kaivac Systems",
-	"editable098b": "Flexible Schedule"
+	"editable098b": "Flexible Schedule",
+	"image01": "https://hygenicsolutions.com/images/i.jpg"
 }
