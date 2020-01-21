@@ -253,5 +253,9 @@
 	"services-educational-img-04": "images/why-us/why-us-gs.jpg",
 	"services-fitness-img-01": "https://hygenic.github.io/site/images/gym.jpg",
 	"services-fitness-img-02": "https://hygenic.github.io/site/images/treadmills.jpg",
-	"services-fitness-img-03": "images/services/fitness/gym2.jpg"
+	"services-fitness-img-03": "images/services/fitness/gym2.jpg",
+	"services-floor-img-01": "https://hygenic.github.io/site/images/fc.jpg",
+	"services-floor-img-02": "https://hygenic.github.io/site/images/f2.jpg",
+	"services-floor-img-03": "https://hygenic.github.io/site/images/cfa.jpg",
+	"services-floor-img-04": "images/services/floor-care/f2b.jpg"
 }
