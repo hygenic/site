@@ -260,5 +260,10 @@
 	"services-floor-img-04": "images/services/floor-care/f2b.jpg",
 	"services-industrial-img-02": "https://hygenic.github.io/site/images/ic.jpg",
 	"services-industrial-img-03": "https://hygenic.github.io/site/images/wrar.jpg",
-	"services-industrial-img-04": "https://hygenic.github.io/site/images/ffasdf.jpg"
+	"services-industrial-img-04": "https://hygenic.github.io/site/images/ffasdf.jpg",
+	"why-us-img-01": [
+		"https://hygenic.github.io/site/images/hlogoandgloves.jpg",
+		"https://hygenic.github.io/site/images/aaaa5.jpg",
+		"https://hygenic.github.io/site/images/why-us-d.jpg"
+	]
 }
